@@ -1,0 +1,6 @@
+.vscode/
+src/server
+src/process
+src/received_file.sh
+test/check_key_pairs
+src/server_concurr
