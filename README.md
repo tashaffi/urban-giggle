@@ -1,2 +1,2 @@
 # urban-giggle
-Security Projects I do for fun
+Projects I do for fun
